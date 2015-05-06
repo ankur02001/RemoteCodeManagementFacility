@@ -1,0 +1,36 @@
+﻿Build started 4/29/2015 8:03:18 PM.
+     1>Project "C:\Users\Ankur\Documents\GitHub\RemoteCodeManagementFacility_Ankur_Pandey\CppCliClient\ExecutiveServer\ExecutiveServer.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D TEST_EXECSERVER /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\ApplicationHelpers\AppHelpers.cpp ..\Cataloger\Cataloger.cpp ..\DataStore\DataStore.cpp ..\Display\Display.cpp ..\FileMgr\FileMgr.cpp ..\FileSystem\FileSystem.cpp ..\Message\Message.cpp ..\MsgHeader\MsgHeader.cpp ..\Reciever\Reciever.cpp ..\Sender\Sender.cpp ..\Sockets\Sockets.cpp ExecutiveServer.cpp
+         ExecutiveServer.cpp
+         Sockets.cpp
+         Sender.cpp
+         Reciever.cpp
+         MsgHeader.cpp
+         Message.cpp
+         FileSystem.cpp
+         FileMgr.cpp
+         Display.cpp
+         DataStore.cpp
+         Cataloger.cpp
+         AppHelpers.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ankur\Documents\GitHub\RemoteCodeManagementFacility_Ankur_Pandey\CppCliClient\Debug\ExecutiveServer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ankur\Documents\GitHub\RemoteCodeManagementFacility_Ankur_Pandey\CppCliClient\Debug\ExecutiveServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ankur\Documents\GitHub\RemoteCodeManagementFacility_Ankur_Pandey\CppCliClient\Debug\ExecutiveServer.lib" /MACHINE:X86 Debug\AppHelpers.obj
+         Debug\Cataloger.obj
+         Debug\DataStore.obj
+         Debug\Display.obj
+         Debug\FileMgr.obj
+         Debug\FileSystem.obj
+         Debug\Message.obj
+         Debug\MsgHeader.obj
+         Debug\Reciever.obj
+         Debug\Sender.obj
+         Debug\Sockets.obj
+         Debug\ExecutiveServer.obj
+         ExecutiveServer.vcxproj -> C:\Users\Ankur\Documents\GitHub\RemoteCodeManagementFacility_Ankur_Pandey\CppCliClient\Debug\ExecutiveServer.exe
+     1>Done Building Project "C:\Users\Ankur\Documents\GitHub\RemoteCodeManagementFacility_Ankur_Pandey\CppCliClient\ExecutiveServer\ExecutiveServer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.11
