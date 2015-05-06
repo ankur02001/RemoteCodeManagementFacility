@@ -1,7 +1,3 @@
-# Message-Passing
- Design and Implement a socket-based message-passing communication channel.
+# RemoteCodeManagementFacility
 
-Messages are modeled after HTTP messages containing a text header and optionally a body that may consist of binary or text data.
-The header contains a sequence of lines, the first of which is a command, and remaining header lines contain message attributes2
-e.g., address of sender and receiver, and, if the message contains a body, a content-length attribute that specifies the number
-of bytes in the body. The message header is terminated with a blank line. 
+Created Windows Presentation Foundation (WPF) to build a Graphical User Interface which supports file transfer and processing requests and displaying results to Status bar and performing information. Client Can Choose Any Server1 or Server2 or both. With Text to be Search / Regular Expression and WildCards Which will Returns list of files with text and paths and machine on which it found in list box. For file search file with patterns And Category From server Return a list of files with their All paths from which server
